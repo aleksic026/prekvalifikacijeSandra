@@ -1,7 +1,7 @@
 <?php
 
 class Math{
-    protected $i =7;
+    protected $i =77;
     public function square($n){
         return $n * $n;
     }
